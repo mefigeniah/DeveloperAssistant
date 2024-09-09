@@ -38,8 +38,8 @@ jobs:
       run: mvn --batch-mode --update-snapshots verify
 
     - name: Packaging workflow data as artifacts
-      run: mkdir staging && cp target/*.jar staging
-      uses: actions/upload-artifact@v4
-        with:
+    - run: mkdir staging && cp target/*.jar staging
+    - uses: actions/upload-artifact@v4
+      with:
         name: Package
         path: staging
