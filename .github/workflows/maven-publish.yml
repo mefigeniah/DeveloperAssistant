@@ -34,6 +34,13 @@ jobs:
 
     - name: Run the Maven verify phase
       run: mvn --batch-mode --update-snapshots verify
+      
+    - name: Packing artifacts
+    - run: mkdir staging && cp target/*.jar staging
+    - uses: actions/upload-artifact@v4
+      with:
+         name: Package
+         path: staging
 
     - name: Publish to GitHub Packages Apache Maven
       run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
