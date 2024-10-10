@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="727c0344-38a3-46fd-a396-d826a4c473e8" name="Changes" comment="Developer Assistant Project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mcc/scrum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/TextLineNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/Tools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mcc/scrum/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mcc/scrum/Frame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +27,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mefigeniah&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mefigeniah/DeveloperAssistant.git&quot;,
+    &quot;accountId&quot;: &quot;40910d01-f7f9-4d25-b585-a5b2850f9e18&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2loiYYLD2saCEZOIYHmlmtZChKf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,17 +50,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/maria/Documents/Proyectos/TextEditor",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mcc.scrum" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,7 +78,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725852883484</updated>
-      <workItem from="1725852884759" duration="1570000" />
+      <workItem from="1725852884759" duration="2857000" />
+      <workItem from="1727049993268" duration="25000" />
+      <workItem from="1727050062663" duration="92000" />
+      <workItem from="1727130732639" duration="1853000" />
     </task>
     <task id="LOCAL-00001" summary="Developer Assistant Project">
       <option name="closed" value="true" />
@@ -63,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725853093906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Developer Assistant Project">
+      <option name="closed" value="true" />
+      <created>1725900866083</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725900866084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
